@@ -46,7 +46,7 @@
 }
 .form__button[type="submit"] {
   background-color: #2f80ed;
-  background-image: url(../images/check.svg);
+  color: #fff;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
