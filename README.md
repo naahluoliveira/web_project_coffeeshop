@@ -19,3 +19,5 @@ Site desenvolvido com HTML e CSS, com o objetivo de explorar conceitos de design
 
 - **Implementação de música ambiente**: Planejo adicionar uma trilha sonora suave ao carregar o site, evocando a sensação de estar em uma cafeteria real.
 - Cardápio com algumas opções que mais se destacam na cafeteria
+
+https://naahluoliveira.github.io/web_project_coffeeshop/
